@@ -87,8 +87,7 @@ No cmd/terminal navegue até o diretório do projeto e execute:
 $ pip install -r requirements.txt
 ```
   ____
-  <br/>
-
+ 
   ### __Instalação__
   <br/>
 

@@ -100,7 +100,7 @@ $ pip install -r requirements.txt
 ```
 <br/>
 
- - Se estiver no linux execute:
+ - Se estiver no linux, após instalar os requerimentos execute:
 ```
 $ sudo apt install python3-scrapy
 ```

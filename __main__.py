@@ -26,7 +26,7 @@ def tratamento(dataf):
     return dataf
 
 # Intanciando a conexão com o MySQL
-news = Interface_sql("root", "root", "127.0.0.1", "noticias")
+news = Interface_sql("User", "Password", "Host", "noticias")
 
 # Iniciando as Spiders para cada um dos sites e gerando os CSV's com os dados retornados
 try:    

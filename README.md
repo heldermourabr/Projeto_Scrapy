@@ -74,7 +74,11 @@ ____
 </tbody>
 </table>
 
-____________
+<br/>
+A solução pode ser escalável configurando novas spiders para todos os websites desejados, assim como o Database. O pipeline e as funções aplicaveis são funcionais para dados com o mesmo esquema organizacional.
+<br/>
+
+________
 
 
   ### __Instalação__
@@ -118,3 +122,15 @@ news = Interface_sql("user", "Password", "Host", "Database")
 ```
 $ python __main__.py
 ```
+____
+ ### __Análise dos dados__
+
+ A base de dados adiquirida permite analisarmos os padrões de publicações de notícias como:
+
+ - Assuntos mais comentados (tags)
+
+ - Volume de novas públicações diárias dos portais
+
+ - Tamanho médio dos textos, visando manter o interesse do leitor sem textos muito extensos
+
+A análise dessas métricas podem contribuir para o planejamento de publicações de um site/blog de noticias, baseando-se em portais com estruturas sólidas no mercado

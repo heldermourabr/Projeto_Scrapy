@@ -27,7 +27,6 @@ ____
 ### __Desempenho__
 <br/>
 
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -76,7 +75,6 @@ ____
 </table>
 
 ____________
-<br/>
 
 ### __Requerimentos__
   - numpy - 1.21.4
@@ -88,7 +86,6 @@ No cmd/terminal navegue até o diretório do projeto e execute:
 ```
 $ pip install -r requirements.txt
 ```
-
   ____
   <br/>
 

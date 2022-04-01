@@ -85,10 +85,6 @@ ____________
 $ git clone https://github.com/heldermourabr/Projeto_Scrapy
 ```
    
- - Antes de rodar no linux execute:
-```
-$ sudo apt install python3-scrapy
-```
 <br/>
 
  - Requerimentos
@@ -103,6 +99,11 @@ No cmd/terminal navegue até o diretório do projeto e execute:
 $ pip install -r requirements.txt
 ```
 <br/>
+
+ - Se estiver no linux execute:
+```
+$ sudo apt install python3-scrapy
+```
 
  - Crie o database MySQL a partir do script [noticias.sql](https://github.com/heldermourabr/Projeto_Scrapy/blob/master/noticias.sql)
 

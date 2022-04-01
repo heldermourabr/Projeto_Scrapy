@@ -76,20 +76,9 @@ ____
 
 ____________
 
-### __Requerimentos__
-  - numpy - 1.21.4
-  - pandas - 1.3.4
-  - Scrapy - 2.6.1
-  - mysql-connector - 2.2.9
-<br/><br/>
-No cmd/terminal navegue até o diretório do projeto e execute: 
-```
-$ pip install -r requirements.txt
-```
-  ____
- 
+
   ### __Instalação__
-  <br/>
+
 
  - Clone o repositório para usá-lo
 ```
@@ -102,6 +91,19 @@ $ sudo apt install python3-scrapy
 ```
 <br/>
 
+ - Requerimentos
+    - numpy - 1.21.4
+    - pandas - 1.3.4
+    - Scrapy - 2.6.1
+    - mysql-connector - 2.2.9<br/>
+<br/>
+
+No cmd/terminal navegue até o diretório do projeto e execute: 
+```
+$ pip install -r requirements.txt
+```
+<br/>
+
  - Crie o database MySQL a partir do script [noticias.sql](https://github.com/heldermourabr/Projeto_Scrapy/blob/master/noticias.sql)
 
  - Abra o arquivo [__main__.py](https://github.com/heldermourabr/Projeto_Scrapy/blob/master/__main__.py) e preencha os argumentos de acesso ao seu DB.
@@ -109,6 +111,7 @@ $ sudo apt install python3-scrapy
 ```
 news = Interface_sql("user", "Password", "Host", "Database")
 ```
+<br/>
 
  - Pelo CMD/terminal navegue até o diretório do projeto e execute:
 ```

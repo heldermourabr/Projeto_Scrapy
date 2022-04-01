@@ -26,17 +26,7 @@ ___
 ____
 ### __Desempenho__
 <br/>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-j4pq{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-fm1b{background-color:#efefef;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-6o7p{background-color:#9b9b9b;border-color:#000000;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-mums{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-jbyd{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
+
 </style>
 <table class="tg">
 <thead>

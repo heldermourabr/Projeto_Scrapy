@@ -7,7 +7,7 @@ class CnnNoticias(scrapy.Spider):
 
     def parse(self, response):
         """
-        O metodo parse estrai a lista de urls a serem "raspadas" pelo metodo parse_news.
+        O metodo parse extrai a lista de urls a serem "raspadas" pelo metodo parse_news.
         """
         urls = response.xpath("//div//a[re:test(@href, 'internacional')]/@href").getall()
         for url in urls:

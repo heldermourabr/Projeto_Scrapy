@@ -1,7 +1,7 @@
 # __Projeto Scrapy__
 ### __Objetivo__
 
-_O objetivo do projeto é desenvolver um sistema de web crawling para estruturar dados de portais de notícias concorrentes de forma incremental, disponibilizando as métricas em um data base._
+_O objetivo do projeto é desenvolver um sistema de web crawling para estruturar dados de portais de notícias concorrentes de forma incremental, disponibilizando as métricas em um database._
 ___
 ### __Desenvolvimento__
 
